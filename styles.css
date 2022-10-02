@@ -63,6 +63,7 @@ body {
   align-items: center;
   flex-direction: column;
   font-family: var(--font-lexend);
+  background-color: var(--color-very-light-gray);
 }
 
 .card {
